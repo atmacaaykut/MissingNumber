@@ -1,0 +1,15 @@
+C:\Users\AYKUT ATMACA\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\EksikDiziElemani.exe
+C:\Users\AYKUT ATMACA\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\EksikDiziElemani.deps.json
+C:\Users\AYKUT ATMACA\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\EksikDiziElemani.runtimeconfig.json
+C:\Users\AYKUT ATMACA\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\EksikDiziElemani.runtimeconfig.dev.json
+C:\Users\AYKUT ATMACA\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\EksikDiziElemani.dll
+C:\Users\AYKUT ATMACA\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ref\EksikDiziElemani.dll
+C:\Users\AYKUT ATMACA\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\EksikDiziElemani.pdb
+C:\Users\AYKUT ATMACA\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\EksikDiziElemani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AYKUT ATMACA\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\EksikDiziElemani.AssemblyInfoInputs.cache
+C:\Users\AYKUT ATMACA\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\EksikDiziElemani.AssemblyInfo.cs
+C:\Users\AYKUT ATMACA\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\EksikDiziElemani.csproj.CoreCompileInputs.cache
+C:\Users\AYKUT ATMACA\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\EksikDiziElemani.dll
+C:\Users\AYKUT ATMACA\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ref\EksikDiziElemani.dll
+C:\Users\AYKUT ATMACA\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\EksikDiziElemani.pdb
+C:\Users\AYKUT ATMACA\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\EksikDiziElemani.genruntimeconfig.cache
